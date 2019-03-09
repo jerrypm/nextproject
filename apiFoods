@@ -11,7 +11,7 @@
         {
             "id": "2",
             "type": "plant"
-            "foodname": "",
+            "foodname": "carrot",
         },
         {
             "id": "3",
