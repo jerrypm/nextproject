@@ -11,16 +11,21 @@
         {
             "id": "2",
             "type": "plant",
-            "foodname": "carrot"
+            "foodname": "carrot",
+            "desc": "Broccoli is an edible green"
         },
         {
             "id": "3",
             "type": "0"
+            "foodname": "milk",
+            "desc": "Broccoli is an edible green"
             
         },
         {
             "id": "4",
             "type": "0"
+            "foodname": "aple",
+            "desc": "Broccoli is an edible green"
         }
        
     ]
