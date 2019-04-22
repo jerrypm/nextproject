@@ -3,28 +3,32 @@
     "data": [
         {
             "id": "1",
-            "type": "plant",
+            "type": "vegetable",
             "foodname": "Broccoli",
+            "image": "https://github.com/jerrypm/nextproject/blob/master/brokoli.jpg",
             "desc": "Broccoli is an edible green plant in the cabbage family whose large flowering head is eaten as a vegetable.The word broccoli comes from the Italian plural of broccolo, which means the flowering crest of a cabbage, and is the diminutive form of brocco, meaning small nail or sprout. Broccoli is often boiled or steamed but may be eaten raw"
 
         },
         {
             "id": "2",
-            "type": "plant",
+            "type": "vegetable",
             "foodname": "carrot",
+            "image": "https://github.com/jerrypm/nextproject/blob/master/carrots.jpg",
             "desc": "Broccoli is an edible green"
         },
         {
             "id": "3",
             "type": "drink",
             "foodname": "milk",
+            "image": "https://github.com/jerrypm/nextproject/blob/master/milk.jpg",
             "desc": "Broccoli is an edible green"
             
         },
         {
             "id": "4",
-            "type": "plant",
-            "foodname": "aple",
+            "type": "fruit",
+            "foodname": "apple",
+            "image": "https://github.com/jerrypm/nextproject/blob/master/apple.jpeg",
             "desc": "Broccoli is an edible green"
         }
        
